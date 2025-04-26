@@ -19,6 +19,15 @@ It automates transaction recording, categorization, and budget management using 
 
 ---
 
+## 🎥 Video Presentation
+
+Watch our full project walkthrough and demo:  
+👉 [Click here to watch the video](https://1drv.ms/v/c/4cf154f7f971d992/EToQwwnR-8lFuVqpYrtIuA0BwPs53mBIVxmLxR8D-5f8bQ?e=NNjLIW)
+
+_(Replace the above link with your actual video link)_
+
+---
+
 ## ⚙️ Technologies Used
 
 - **Frontend:**
@@ -51,36 +60,4 @@ It automates transaction recording, categorization, and budget management using 
 | 📊 Financial Reports | Generate detailed summaries and visual graphs |
 | 📆 Filter by Date | View transactions filtered by custom date ranges |
 | 🧠 Smart Budget Planning | Set and monitor financial goals |
-| 📱 Responsive UI | Optimized for mobile and desktop devices |
-
----
-
-## 📈 Future Enhancements
-
-- Cloud hosting for real-time access and data backup
-- AI-based predictive budgeting and expense suggestions
-- Multi-user access with role-based permissions
-- Mobile App (Android & iOS)
-- Bank API integration for automatic transaction syncing
-- Export/import data in CSV/Excel formats
-- Multi-currency and multilingual support
-
----
-
-## 👩‍💻 Team Members
-
-- **Kirti Sahni (2301010236)**
-- **Anushka Berlia (2301010263)**
-- **Abhinav Jha (2301010211)**
-- **Vinay Pratap Singh (2301010231)**
-
-Under the guidance of **Dr. Archna Goyal**  
-Department of Computer Science and Engineering  
-K.R. Mangalam University, Gurugram
-
----
-
-## 📞 Contact
-
-For inquiries or support, please contact:  
-📧 Email: kirti1617@gmail.com
+| 📱
