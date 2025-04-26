@@ -24,8 +24,6 @@ It automates transaction recording, categorization, and budget management using 
 Watch our full project walkthrough and demo:  
 👉 [Click here to watch the video](https://1drv.ms/v/c/4cf154f7f971d992/EToQwwnR-8lFuVqpYrtIuA0BwPs53mBIVxmLxR8D-5f8bQ?e=NNjLIW)
 
-_(Replace the above link with your actual video link)_
-
 ---
 
 ## ⚙️ Technologies Used
